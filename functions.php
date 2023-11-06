@@ -11,13 +11,13 @@ require_once(CORE."/init.php ");
 if(!function_exists("TS-599")){
    function TS599() {
    }
-   add_action('init', 'TS-599')
+   add_action('init', 'TS-599');
 }
 
 function add_css()
 {
-   wp_register_style('first', get_template_directory_uri() . '/assets/css/style.css', false,'1.1','all');
-   wp_enqueue_style( 'first');
+   wp_register_style('styles', get_template_directory_uri() . '/assets/css/style.css', array(),'1','all');
+   wp_enqueue_style( 'styles');
 }
 add_action('wp_enqueue_scripts', 'add_css');
 
