@@ -10,7 +10,7 @@
                   <div class="topHead">
                      <div class="wrapper">
                         <div class="hotlineTop">
-                           <div class="icon"><span>Hotline: <strong class="eff">1900 1177</strong></span>
+                           <div class="icon"><label>Hotline: <strong>1900 0000</strong></label>
                            </div>
                         </div>
                      </div>
@@ -20,7 +20,7 @@
                         <div class="wrapPoss">
                            <div class="logo">
                               <a href="lien-he-tour.html" title="Mạng bán TOUR DU LỊCH trực tuyến hàng đầu Việt nam">
-                              <a href="lien-he-tour.html"><img alt="TS559" src="/assets/images/logo.png"></a>
+                              <a href="lien-he-tour.html"><img src="<?php echo get_template_directory_uri().'/assets/images/logo.png'; ?>" alt="" class="img-fluid radius-image" /></a>
                            </div>
                            <div class="header-tools">
                               <div class="menuTop hidden-sm hidden-xs">

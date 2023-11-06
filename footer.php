@@ -1,5 +1,5 @@
 <footer>
-    <div id="vnt-footer">
+    <div id="vnt-footer" style="background: #FFF !important;">
                <div class="wrapper">
                   <div class="mainFoot">
                      <div class="row mb">

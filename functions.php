@@ -1,4 +1,19 @@
 <?php
+
+
+//khai bao constant
+define("THEME_URL",get_stylesheet_directory());
+define("CORE",THEME_URL."/core");
+
+// embed file init
+require_once(CORE."/init.php ");
+
+if(!function_exists("TS-599")){
+   function TS599() {
+   }
+   add_action('init', 'TS-599')
+}
+
 function add_css()
 {
    wp_register_style('first', get_template_directory_uri() . '/assets/css/style.css', false,'1.1','all');
