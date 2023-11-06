@@ -11,7 +11,6 @@
                      <div class="wrapper">
                         <div class="hotlineTop">
                            <div class="icon"><span>Hotline: <strong class="eff">1900 1177</strong></span>
-                              
                            </div>
                         </div>
                      </div>
@@ -21,7 +20,7 @@
                         <div class="wrapPoss">
                            <div class="logo">
                               <a href="lien-he-tour.html" title="Mạng bán TOUR DU LỊCH trực tuyến hàng đầu Việt nam">
-                              <a href="lien-he-tour.html"><img alt="Tour Du Lịch Việt" src="images/logo.png"></a>
+                              <a href="lien-he-tour.html"><img alt="TS559" src="/assets/images/logo.png"></a>
                            </div>
                            <div class="header-tools">
                               <div class="menuTop hidden-sm hidden-xs">

@@ -12,3 +12,5 @@ function add_scripts() {
    
 } 
 add_action( 'js_script', 'add_scripts', 999 ); 
+
+add_theme_support('menus');

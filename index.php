@@ -38,7 +38,7 @@
                         <a href="tour-khuyen-mai.html" class="link"> Xem tất cả</a>
                      </div>
                      <div class="contentHome" style="margin-top: 20px;">
-                        <div class="vnt-tour grid">
+                        <!-- <div class="vnt-tour grid">
                            <div class="slideFluid width2 owl-carousel">
                               <div class="item">
                                  <div class="mda-box-item">
@@ -554,7 +554,7 @@
                                  </div>
                               </div>
                            </div>
-                        </div>
+                        </div> -->
                      </div>
                   </div>
                </div>
