@@ -39574,11 +39574,11 @@ a.go_top:before {
         padding-top: 0
     }
 
-    div#vnt-slide .img img {
+    div #vnt-slide .img img {
         position: static;
         transform: none;
         height: auto;
-        widht: 100%
+        width: 100%
     }
 
     .wrapper {

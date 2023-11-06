@@ -160,8 +160,7 @@
                                     <li class><a href="khach-san/index.html">Khách sạn</a></li>
                                     <li class><a href="ve-may-bay.html">Vé</a></li>
                                     <li class><a href="xe-du-lich.html">Thuê xe</a></li>
-                                    <li class>
-                                       <a href="tin-tuc/gioi-thieu.html">Giới thiệu</a>
+                                    <li class><a href="tin-tuc/gioi-thieu.html">Giới thiệu</a>
                                     </li>
                                  </ul>
                               </div>
