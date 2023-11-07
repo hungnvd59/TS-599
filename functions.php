@@ -5,8 +5,6 @@
 define("THEME_URL",get_stylesheet_directory());
 define("CORE",THEME_URL."/core");
 
-// embed file init
-require_once(CORE."/init.php ");
 
 if(!function_exists("TS-599")){
    function TS599() {
